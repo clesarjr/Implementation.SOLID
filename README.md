@@ -2,7 +2,7 @@
  <p align="center">Aplicação desenvolvida no curso de SOLID da <a href="https://www.alura.com.br//">@alura</a> </p>
 
 # 🎯 Sobre
-   O intuito deste projeto é aplicar os 5 princípios do SOLID.
+   O intuito deste projeto foi aplicar os 5 princípios do SOLID.
    
 ## S ingle Responsiblity Principle
  Uma classe deve ter um, e somente um, motivo para mudar.
